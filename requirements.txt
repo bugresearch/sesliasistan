@@ -1,0 +1,12 @@
+certifi==2020.11.8
+chardet==3.0.4
+click==7.1.2
+gTTS==2.2.1
+idna==2.10
+keyboard==0.13.5
+PyAudio==0.2.11
+requests==2.25.0
+selenium==3.141.0
+six==1.15.0
+SpeechRecognition==3.8.1
+urllib3==1.26.2
